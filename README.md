@@ -6,7 +6,7 @@ Une application mobile développée avec **Flutter** permettant d’afficher les
 
 ## Aperçu
 
-<img src="screenshots/home_screen.png" width="300"/> <img src="screenshots/detail_screen.png" width="300"/>
+<img src="image/homescreen.png" width="300"/> <img src="image/detailscreen.png" width="300"/>
 
 ---
 
